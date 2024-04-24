@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libDevCOM", "libDevCOM\libDevCOM.csproj", "{1232ADF0-F0CB-4202-A5C2-A6D41C23C8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1232ADF0-F0CB-4202-A5C2-A6D41C23C8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1232ADF0-F0CB-4202-A5C2-A6D41C23C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1232ADF0-F0CB-4202-A5C2-A6D41C23C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1232ADF0-F0CB-4202-A5C2-A6D41C23C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B75D41B-56DB-4BC6-BA93-EDD9C8497BEA}
+	EndGlobalSection
+EndGlobal
